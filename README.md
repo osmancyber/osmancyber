@@ -10,7 +10,6 @@ My goal is to transition into the field of cybersecurity through an internship o
 I am interested in on-site, remote, and hybrid positions and opportunities. I am willing to relocate with my family with enough time given in advance.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ I am interested in on-site, remote, and hybrid positions and opportunities. I am
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
