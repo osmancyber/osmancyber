@@ -16,9 +16,7 @@ I am interested in on-site, remote, and hybrid positions and opportunities. I am
 | Analyzing Wireless Traffic with Wireshark     | <a href="https://github.com/osmancyber/labs/blob/Networking-Labs/Analyzing_Wireless_Traffic_with_Wireshark_and_NetWitness_Investigator_3e_-_Corbin_Osman.pdf">Network Lab</a>|
 | Network Assessment with Common Security Tools | <a href="https://github.com/osmancyber/labs/blob/Networking-Labs/Assessing_the_Network_with_Common_Security_Tools_3e_-_Corbin_Osman.pdf">Network Lab</a>|
 | Firewall Configuration with pfSense           | <a href="https://github.com/osmancyber/labs/blob/Networking-Labs/Configuring_Firewall_Interfaces_with_pfSense_3e_-_Corbin_Osman.pdf">Network Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Group Policy Object Project                   | <a href="https://github.com/osmancyber/projects/tree/projects/GPO%20Project">Network Project</a>|
 
 ## Tools
 
@@ -43,5 +41,4 @@ Working on earning my CC and A+ Certifications
 </div>
 
 ## Projects
-- <a href="https://github.com/osmancyber/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/osmancyber/projects/tree/projects/GPO%20Project">Group Policy Object Project</a>
