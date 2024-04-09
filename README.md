@@ -11,10 +11,10 @@ I am interested in on-site, remote, and hybrid positions and opportunities. I am
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project or Lab  |
 |-----------------------------------------------|----------------------------|
-| Analyzing Wireless Traffic with Wireshark     | <a href="https://github.com/osmancyber/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Analyzing Wireless Traffic with Wireshark     | <a href="https://github.com/osmancyber/labs/blob/Networking-Labs/Analyzing_Wireless_Traffic_with_Wireshark_and_NetWitness_Investigator_3e_-_Corbin_Osman.pdf">Network Lab</a>|
+| Network Assessment with Common Security Tools | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
