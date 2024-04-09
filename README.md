@@ -13,7 +13,7 @@ I am interested in on-site, remote, and hybrid positions and opportunities. I am
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/osmancyber/Detection-Lab/tree/main">Detection Lab</a>|
+| Analyzing Wireless Traffic with Wireshark     | <a href="https://github.com/osmancyber/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -25,22 +25,16 @@ I am interested in on-site, remote, and hybrid positions and opportunities. I am
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ping-777BB4?&style=for-the-badge&logo=Ping&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Traceroute-CFDDA2?&style=for-the-badge&logo=Traceroute&logoColor=white" />
 </div>
 
-### Endpoint
+### Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-00A4EF?&style=for-the-badge&logo=Autopsy&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 
