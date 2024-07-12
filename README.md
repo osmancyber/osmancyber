@@ -3,6 +3,8 @@
 
 I am a 2024 graduate looking to further my knowledge and skills within the fields of cybersecurity and digital forensics. I am enthusiastic about learning and growing and hope to deepen my technical knowledge and experience in the work field.
 
+Take a look around to see the various things that I have learned and performed. Review the papers I've written for a glimpse into my knowledge on various topics, or explore the skills I've gained and the tools I have experience with to know what I offer from a professional standpoint.
+
 ## Objective
 
 My goal is to transition into the field of cybersecurity through an internship or entry-level role that allows me to gain hands-on experience and technical knowledge. While working full-time I also aim to further my education and skill set through continued studies and earning certifications.
