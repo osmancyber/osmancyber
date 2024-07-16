@@ -38,7 +38,9 @@ I am interested in on-site, remote, and hybrid positions and opportunities. I am
 
 ## Certifications
 
-Working on earning my CC and A+ Certifications
+ISC2 Certified in Cybersecurity (CC) Certification (2024)
+
+Working on earning my Security+ and Certified Forensic Examiner Certifications
 <div>
 </div>
 
